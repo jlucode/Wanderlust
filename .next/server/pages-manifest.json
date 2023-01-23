@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/NorthAmerican_Cities/SanDiego": "pages/NorthAmerican_Cities/SanDiego.js",
+  "/": "pages/index.js",
+  "/NorthAmerican_Cities/Orlando": "pages/NorthAmerican_Cities/Orlando.js"
+}
