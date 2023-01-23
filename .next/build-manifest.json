@@ -20,15 +20,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
-    "/NorthAmerican_Cities/Orlando": [
+    "/African_Cities/Nairobi": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/NorthAmerican_Cities/Orlando.js"
-    ],
-    "/NorthAmerican_Cities/SanDiego": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/NorthAmerican_Cities/SanDiego.js"
+      "static/chunks/pages/African_Cities/Nairobi.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
