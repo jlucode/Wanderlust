@@ -1,4 +1,4 @@
-# <h1 align="center" style="font-size: 70">Wanderlust</h1>
+# <h1 align="center" style="font-size: 100">Wanderlust</h1>
 
 <!-- ABOUT -->
 # About The Project
